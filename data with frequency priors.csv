@@ -1,0 +1,54 @@
+species,name,alexandra,emily,EP.sicily,EP.malta,EMP.sicily,EMP.malta,LMP.sicily,LMP.malta,LP.sicily,LP.malta
+Pellegrinia panormensis,Gundi,700,100,x,,,,,,,
+Mustelercta arzilla,Marten,5,50,x,,,,,,,
+Leithia sp.,Dormouse,800,100,x,,,,,,,
+Hypolagus peregrinus,Hare,600,80,x,,,,,,,
+Apodemus maximus,Giant fieldmouse,1000,100,x,,,,,,,
+Asoriculus burgioi,Shrew,500,100,x,,,,,,,
+Maltamys cf. gollcheri,Dormouse,800,100,x,,,,,,,
+Leithia melitensis,Giant Dormouse,800,80,,,x,x,,,,
+Palaeoloxodon falconeri,Dwarf Elephant,300,10,,,x,x,,,,
+Leithia cartei,Giant Dormouse,800,80,,,x,x,x,x,,
+Maltamys gollcheri,Dormouse,800,80,,,x,x,,,,
+Crocidura esuae,White-toothed Shrew,500,100,,,x,x,x,x,,
+Lutraeximia trinacriae,Sicilian Otter,5,1,,,x,,x,,,
+Tyto mourerchauvireae,Large Barn Owl,5,1,,,x,,,,,
+Cygnus equitum,Small swan,10,20,,,x,,,,,
+Grus melitensis,Giant Crane,10,20,,,x,x,x,x,,
+Athene trinacriae,Owl,5,1,,,x,,,,,
+Testudo hermanni,Hermann's Tortoise,7,10,x,,x,,x,,x,
+Testudininei sp.,Giant Tortoise,50,60,,,x,,,,,
+Lutra euxena,Maltese Otter,5,1,,,,x,,x,,
+Maltamys wiedincitensis,Dormouse,800,100,,,,x,x,x,,x
+Hippopotamus pentlandi,Dwarf Hippo,300,10,,,,,x,,,
+Palaeoloxodon mnaidriensis,Dwarf Elephant,300,10,,,,,x,x,x,
+Hippopotamus melitensis,Dwarf Hippo,300,10,,,,,,x,,
+Microtus melitensis,Vole,800,80,,,,,,x,,
+Grus grus,Common Crane,10,20,,,,,,x,,
+Centrochelys robusta,Giant Tortoise,50,60,,,,,,x,,
+Microtus pauli ,Vole,800,80,,,,,,x,,
+Dama carburangelensis,Fallow Deer,100,40,,,,,x,,x,
+Bos primigenius,Aurochs,100,20,,,,,x,,x,
+Cervus elaphus,Red Deer,100,40,,,,,x,x,x,
+Sus scrofa,Wild Boar,100,40,,,,,x,,x,
+Ursus arctos,Brown Bear,1,1,,,,,x,,x,x
+Bison priscus,European Bison,100,20,,,,,x,,x,
+Canis lupus,Wolf,1,1,,,,,x,x,x,
+Panthera leo,Lion,1,1,,,,,x,,x,
+Crocuta crocuta,Spotted Hyena,1,1,,,,,x,,x,
+Lepus europaeus,Brown Hare,600,80,,,,,,,x,
+Erinaceus europaeus,European hedgehog,75,80,,,,,x,,,
+Emys orbicularis,European pond turtle,7,60,,,,,x,,,
+Cygnus falconeri,Giant Swan,10,20,,,,,x,x,,
+Equus hydruntinus,Wild Ass,100,10,,,,,,,x,
+Apodemus sylvaticus,Common Fieldmouse,1000,100,,,,,,,x,
+Microtus savii,Pine Vole,800,80,,,,,,,x,
+Crocidura sicula,Sicilian Shrew,500,100,,,,,,,x,x
+Equus caballus,Horse,100,10,,,,,,,x,
+Crocidura sicula calypso ,Gozitan Shrew,500,100,,,,,,,,x
+Cervus sp,Dwarf Deer (medium),300,40,,,,,,,,x
+Cervus sp,Dwarf Deer (small),300,40,,,,,,,,x
+Cervus sp,Dwarf Deer (tiny),300,40,,,,,,,,x
+Microtus melitensis,Burrowing vole,800,80,,,,,,,,x
+Rhinolophus hipposideros,Lesser horseshoe bat,25,80,,,,,,,,x
+Vulpes vulpes,Red Fox,1,10,,,,,,,x,x
